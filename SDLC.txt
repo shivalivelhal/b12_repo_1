@@ -1,0 +1,87 @@
+assert:
+by vishnu sir:
+
+software development lifecycle:
+requirement gthering is a phase
+and useme analysis karte hai
+
+product owner
+
+sdlc phases:
+analysis:
+--product owner
+--product manager
+--business analysist
+--cto(chief thechinical officer)
+
+client envolvement in analysis
+
+design:
+--system architectect
+--ui designer
+
+client doesnot envolve in design
+
+development:
+--front-end developer
+--back-end developer
+
+testing:
+--solution architectect
+--QA engineer
+--tester
+--deveops
+
+
+deployment:
+--data adminstator
+--deveops
+
+
+maintaince:
+--user
+--tester
+--support manager
+
+
+arnav goswami fllowvfor communication
+
+jira project managment tool
+
+testing done b developer is unit testing or whitebox testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data migratation:
+
